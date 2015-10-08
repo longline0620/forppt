@@ -5,4 +5,7 @@ printf("hello genie");
 printf("hello~");
 printf("remote push");
 printf("1")
-;}
+;
+/// 另一使用者新增並push
+
+}
