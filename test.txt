@@ -4,4 +4,5 @@ main()
 printf("hello genie");
 printf("hello~");
 printf("remote push");
-}
+printf("1")
+;}
